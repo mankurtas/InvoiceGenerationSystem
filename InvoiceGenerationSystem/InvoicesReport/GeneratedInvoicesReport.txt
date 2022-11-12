@@ -1,0 +1,5 @@
+Generated Invoices Report
+1. Lt500 Issue Date: 2022 Total Price: 941.49
+2. BK400 Issue Date: 2022 Total Price: 3090.5
+3. TK400 Issue Date: 2021 Total Price: 3351.9799999999996
+Total price of all invoices Eur: 7383.969999999999

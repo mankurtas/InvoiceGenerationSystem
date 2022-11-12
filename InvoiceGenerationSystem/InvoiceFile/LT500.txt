@@ -1,0 +1,9 @@
+Invoice Report
+Invoice number LT500 Issued Time: 2022
+1. Washingmshine LG Kaina Eur: 340
+2. Microwave Kaina Eur: 150.99
+3. Mixer Kaina Eur: 50
+4. Dishwasher Kaina Eur: 550
+5. Washingmshine LG Kaina Eur: 340
+6. Dryer BC Kaina Eur: 450.5
+Total price Eur: 1881.49
